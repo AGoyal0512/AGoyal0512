@@ -10,7 +10,7 @@ I'm Agam Goyal, a sophomore at the University of Wisconsin - Madison, majoring i
 
 ### 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kalp121212&layout=compact&langs_count=5&hide=Verilog,HTML&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AGoyal0512&layout=compact&langs_count=5&theme=tokyonight)
 
 <!--
 **AGoyal0512/AGoyal0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
