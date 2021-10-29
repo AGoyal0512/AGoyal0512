@@ -4,7 +4,7 @@ I'm Agam Goyal, a sophomore at the University of Wisconsin - Madison, majoring i
 
 Apart from focusing on the learning from classwork, I like to augment my skills by involve myself in extra-curricular activities like clubs, active research work, directed studies and independent projects. 
 
-I'm also the Community Outreach Lead of the Google Developer Student Club at UW-Madison where I'm working on developing partnerships with economic development agencies, community centers, and other local organizations for sponsorships in events conducted.
+My GitHub contains code and files from the projects I work on, competitions I participate in and also a potential personal website in the future.
 
 
 ### 🏆 My GitHub Stats
