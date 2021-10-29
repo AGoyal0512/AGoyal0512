@@ -2,6 +2,10 @@
 
 I'm Agam Goyal, a sophomore at the University of Wisconsin - Madison, majoring in Computer Science and Data Science, and doing a minor in Economic Analytics. Over the last 2 years, I've been interested in data science and machine learning, and deeply inspired by their utility in various fields today. 
 
+Apart from focusing on the learning from classwork, I like to augment my skills by involve myself in extra-curricular activities like clubs, active research work, directed studies and independent projects. 
+
+I'm also the Community Outreach Lead of the Google Developer Student Club at UW-Madison where I'm working on developing partnerships with economic development agencies, community centers, and other local organizations for sponsorships in events conducted.
+
 
 ### 🏆 My GitHub Stats
 
