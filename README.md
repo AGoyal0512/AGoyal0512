@@ -6,6 +6,8 @@ Apart from focusing on the learning from classwork, I like to augment my skills 
 
 My GitHub profile contains code and deliverables from the projects I work on and competitions I participate in.
 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/agamgoyal5/) or on [Twitter](https://twitter.com/ag_endure) 😁
+
 <!--
 ### 🏆 My GitHub Stats
 
