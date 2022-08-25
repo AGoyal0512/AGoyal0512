@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Agam Goyal, a rising junior at the University of Wisconsin - Madison majoring in Computer Science, Mathematics, and Data Science along with a minor in Economic Analytics. For the last few years, I've been interested in data science and machine learning techniques, and deeply inspired by the utility of these domains in various fields today. 
+I'm Agam Goyal, a rising junior at the University of Wisconsin - Madison majoring in Computer Science and Data Science along with minors in Mathematics and Economic Analytics. For the last few years, I've been interested in data science and machine learning techniques, and deeply inspired by the utility of these domains in various fields today. 
 
 Apart from focusing on the learning from classwork, I like to augment my skills by involving myself in extra-curricular activities like clubs, active research work, directed studies and independent projects.
 
