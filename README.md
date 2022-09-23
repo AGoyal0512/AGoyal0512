@@ -8,12 +8,12 @@ My GitHub profile contains code and deliverables from the projects I work on and
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/agamgoyal5/) or on [Twitter](https://twitter.com/ag_endure) 😁
 
-<!--
+
 ### 🏆 My GitHub Stats
 
 [![Agam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGoyal0512&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/AGoyal0512/github-readme-stats)
 
-
+<!--
 ### 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AGoyal0512&layout=compact&langs_count=5&theme=tokyonight)
