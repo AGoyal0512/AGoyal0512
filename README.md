@@ -1,10 +1,10 @@
 ## Hey there! 👋
 
-I'm Agam Goyal, a rising junior at the University of Wisconsin - Madison majoring in Computer Science and Data Science along with minors in Mathematics and Economic Analytics. For the last few years, I've been interested in data science and machine learning techniques, and deeply inspired by the utility of these domains in various fields today. 
+I'm Agam Goyal, a junior at the University of Wisconsin - Madison majoring in Computer Science and Data Science along with minors in Mathematics and Economic Analytics. For the last few years, I've been involved in the domains of data science and machine learning, and am deeply inspired by their utility in various fields today.
 
-Apart from focusing on the learning from classwork, I like to augment my skills by involving myself in extra-curricular activities like clubs, active research work, directed studies and independent projects.
+Apart from focusing on the learning from classwork, I like to augment my skills through research work, directed studies and by involving myself in extra-curricular activities like clubs and building independent projects.
 
-My GitHub profile contains code and deliverables from the projects I work on and competitions I participate in.
+My GitHub profile contains code and deliverables from the projects and publications I work on and competitions I participate in.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/agamgoyal5/) and follow me on [Twitter](https://twitter.com/ag_endure) 😁
 
