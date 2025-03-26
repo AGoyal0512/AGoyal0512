@@ -1,10 +1,10 @@
 ## Hey there! 👋
 
-I'm Agam Goyal, a junior at the University of Wisconsin - Madison majoring in Computer Science, Mathematics, and Data Science along with a minor in Economic Analytics. For the last few years, I've been involved in the domains of data science and machine learning, and am deeply inspired by their utility in various fields today.
+I am a Computer Science Ph.D. student at the [University of Illinois Urbana-Champaign](https://www.cs.wisc.edu/), where I am working on making large language models more aligned with human values and their applications in social settings. My work is graciously supported in part by the [Cohere For AI Research Grant Program](https://cohere.com/blog/c4ai-research-grants) and the [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/). See [this page](research) for more details on my past and current research interests.
 
-Apart from focusing on the learning from classwork, I like to augment my skills through research work, directed studies and by involving myself in extra-curricular activities like clubs and building independent projects.
+Previously, I was an undergraduate student at the [University of Wisconsin-Madison](https://www.wisc.edu/) where I graduated with a B.S. with [Comprehensive Honors](https://honors.ls.wisc.edu/honors-degree-tracks/#comprehensive-honors), majoring in [Computer Science](https://www.cs.wisc.edu/), [Mathematics](https://math.wisc.edu/), and [Data Science](https://datascience.wisc.edu/), with a minor in [Economic Analytics](https://econ.wisc.edu/).
 
-My GitHub profile contains code and deliverables from the projects and publications I work on and competitions I participate in.
+Over the last two summers, I worked as a Software Development Engineer (SDE) Intern at [Amazon Web Services (AWS)](https://aws.amazon.com/) in the EC2 Modernization team (2024), developing an RAG-based framework for decompiled C# source code summarization, and on the [Alexa](https://twitter.com/alexa99) Devices Speech Middleware team (2023), working on making it easier for applications to achieve Alexa Voice Integration and built an application to help automate the end-to-end testing of Alexa's Speech functionalities.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/agamgoyal5/) and follow me on [Twitter](https://twitter.com/_agam_goyal_) 😁
 
@@ -17,19 +17,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/agamgoyal
 ### 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AGoyal0512&layout=compact&langs_count=5&theme=tokyonight)
--->
-
-<!--
-**AGoyal0512/AGoyal0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
